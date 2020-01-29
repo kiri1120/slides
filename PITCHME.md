@@ -5,8 +5,7 @@
 ---
 
 ### 何者？
-- 開発エンジニア
+![icon](https://raw.githubusercontent.com/kiri1120/slides/master/assets/kirikuma.png)
+- 開発エンジニア(slack:@kazuki.sato)
 - 主な得意領域はサーバー（バックエンド）
 - https://github.com/kiri1120
-
-![icon](https://raw.githubusercontent.com/kiri1120/slides/master/assets/kirikuma.png)
