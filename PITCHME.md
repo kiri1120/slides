@@ -7,4 +7,4 @@
 ### 何者？
 - 開発エンジニア
 - 主な得意領域はサーバー（バックエンド）
-- https://github.com/kiri1120 ![alt](assets/kirikuma.png)
+- https://github.com/kiri1120 ![icon](https://raw.githubusercontent.com/kiri1120/slides/master/assets/kirikuma.png)
