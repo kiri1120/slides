@@ -41,7 +41,7 @@
 
 ### 趣味で開発したもの
 
-- MeshSplitter(https://kiri1120.booth.pm/items/1633965)
+- [MeshSplitter](https://kiri1120.booth.pm/items/1633965)
   - UnityEditor拡張ツール
   - 3Dモデルのメッシュを分割するツール
 
