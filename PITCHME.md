@@ -1,14 +1,9 @@
 ### 2020/01/29
-自己紹介LT
+#### 自己紹介LT
 佐藤 和紀
 
 ---
 
-### この発表の目的
-どんなことをやってきたのかを知ってもらうことで、
-どんな人間なのかが理解ってもらえたらいいなぁ（希望的観測）
-
----
 
 ### 何者？
 ![icon](https://raw.githubusercontent.com/kiri1120/slides/master/assets/kirikuma.png)
@@ -72,17 +67,8 @@
 
 ---
 
-### このLTについて
-
-- GitPitch(https://gitpitch.com)
-  - 初めて使ってみた
-  - Markdownでスライドショーが書ける
-  - [Paiza開発日誌](https://paiza.hatenablog.com/entry/2017/06/22/GitHub%E3%81%A0%E3%81%91%E3%81%A7%E8%B6%85%E9%AB%98%E6%A9%9F%E8%83%BD%E3%81%AA%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E8%B3%87%E6%96%99%E3%81%8C%E4%BD%9C%E3%82%8C%E3%82%8B%E3%80%8CGitPitch%E3%80%8D%E3%81%AE)でも紹介されてる
-
----
-
 ### 感想
-- markdownで書けるのは楽
+- GitPitch使ってみた。markdownで書けるのは楽
 - LT慣れてないし苦手意識ある
 - ちょっと文章多すぎたかも
 - 見栄え？ナニソレオイシイノ
